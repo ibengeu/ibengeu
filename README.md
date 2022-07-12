@@ -1,4 +1,4 @@
-<h1 align="left">Greetings visitor 👋, I'm Uforo Ibenge</h1>
+<h1 align="left">Greetings 👋, I'm Uforo Ibenge</h1>
 <h3 align="left">A passionate frontend developer and tech enthusiast from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibengeu" alt="ibengeu" /></a> </p>
