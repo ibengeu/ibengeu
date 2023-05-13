@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibengeu" alt="ibengeu" /></a> </p>
 
-- 🌱 I build with **c#, nextjs, ansible and terraform**
+- 🌱 I build with **c# (dotnet), nextjs, ansible and terraform**
 
 - 💬 Ask me about **React**
 
