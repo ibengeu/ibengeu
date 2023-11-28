@@ -1,9 +1,9 @@
 <h1 align="left">Greetings 👋, I'm Uforo Ibenge</h1>
-<h3 align="left">A passionate Front-end/Back-end developer and tech enthusiast from Nigeria</h3>
+<h3 align="left">A passionate full-stack developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibengeu" alt="ibengeu" /></a> </p>
 
-- 🌱 I build with **c# (dotnet), nextjs, ansible and terraform**
+- 🌱 I build with **(dotnet), nextjs, ansible and terraform**
 
 - 💬 Ask me about **React**
 
